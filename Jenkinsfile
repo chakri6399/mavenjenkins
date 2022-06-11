@@ -8,7 +8,7 @@ pipeline
         {
             steps 
             {
-                echo 'Build App my self'
+                echo 'Build App'
             }
         }
 
